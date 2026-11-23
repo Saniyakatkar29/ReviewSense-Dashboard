@@ -1,0 +1,9 @@
+{
+    "model_name": "TF-IDF + Logistic Regression",
+    "accuracy": 0.7462,
+    "accuracy_percentage": 74.62,
+    "evaluation_type": "Balanced held-out test set",
+    "precision": null,
+    "recall": null,
+    "f1_score": null
+}

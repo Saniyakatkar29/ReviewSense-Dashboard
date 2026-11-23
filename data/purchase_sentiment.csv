@@ -1,0 +1,7 @@
+verified_purchase,sentiment,review_count,purchase_type
+False,Negative,27963,Unverified
+False,Neutral,5778,Unverified
+False,Positive,53737,Unverified
+True,Negative,297433,Verified
+True,Neutral,97097,Verified
+True,Positive,1621919,Verified
